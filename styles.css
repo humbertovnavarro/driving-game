@@ -1,21 +1,11 @@
-.y {
-  display: flex;
-  justify-content: flex-start;
-  flex-wrap: nowrap;
-}
-
-.x {
-  height: 256px;
-  width: 256px;
-  float: left;
-  /* border: 1px solid yellow;
-  background-color: lightgreen; */
-}
-.x img {
-  height: 100%;
-  width: 100%;
-}
-
 body {
   background-color:green;
+}
+
+.car {
+  position: absolute;
+}
+
+.car img {
+  width: 128px;
 }
